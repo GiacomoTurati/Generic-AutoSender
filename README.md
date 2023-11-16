@@ -1,5 +1,5 @@
 # Generic-AutoSender
-Codice python generico che sfrutta la libreria keyboard per fare da auto sender e spammer
+Generic Python code that uses the keyboard library to act as an auto sender and spammer
 
 # How to set-up
 For the spam and the number auto sender you dont need a setup, just dowload and start the code.
